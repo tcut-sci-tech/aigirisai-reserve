@@ -34,15 +34,15 @@ h3 {
   color: #036eb7;
 }
 
-BL {
+bla {
   color: #000;
 }
 
-SAT {
+blu {
   color: #00f;
 }
 
-SUN {
+red {
   color: #f00;
 }
 
@@ -140,9 +140,9 @@ tit4 {
 tit5 {
   margin: 0 0 0 0;
   position: relative;
-  font-size: 3.5vw;
+  font-size: 2.5vw;
   font-weight: 800;
-  color: #f00;
+  color: #000;
 }
 
 /*---------- ボタン ---------- */
