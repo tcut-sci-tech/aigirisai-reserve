@@ -250,6 +250,12 @@ tit5 {
 	background-color: #2857b1;
 }
 
+.sec06 {
+  margin: 0 0 0 0;
+	height: auto;
+	background-color: #2857b1;
+}
+
 /*---------- フッター リンク ---------- */
 .op a:hover{
 	color: #fff;
